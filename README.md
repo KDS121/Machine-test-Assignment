@@ -3,3 +3,4 @@ Candidate Name : Karandeep Singh
 Applied For : FrontEnd Developer Profile
 
 Root File : index.html
+To run open index.html 
